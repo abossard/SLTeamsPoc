@@ -1,0 +1,24 @@
+{
+    "appName": "SLTeamsPoc",
+    "projectId": "761abe35-1ff0-4efc-a0f2-79b6d5019fac",
+    "solutionSettings": {
+        "name": "fx-solution-azure",
+        "version": "1.0.0",
+        "hostType": "Azure",
+        "azureResources": [],
+        "capabilities": [
+            "Tab"
+        ],
+        "activeResourcePlugins": [
+            "fx-resource-frontend-hosting",
+            "fx-resource-identity",
+            "fx-resource-aad-app-for-teams",
+            "fx-resource-local-debug",
+            "fx-resource-appstudio",
+            "fx-resource-simple-auth"
+        ]
+    },
+    "version": "2.0.0",
+    "isFromSample": false,
+    "programmingLanguage": "javascript"
+}
